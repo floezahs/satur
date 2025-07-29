@@ -532,5 +532,22 @@
         }
       }
     ]
+  },
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "polyline_1753812717355_0",
+          "name": "Polilínea 2",
+          "length": "12.763 km"
+        },
+        "geometry": {
+          "type": "LineString",
+          "coordinates": "ijh`CtfnqOvd@C`@nE`@\zk@XfChACr[fV@Eta@vYDE{q@mAoGRe@`ZiN~EmD~QyIdEkH`@}ClBmD|HiDj_@yNZwFrl@oF{Soi@zAw`Dj@meAgFkJ_AqdCKoHsN{Zk@qRbAoDcB}AkA~@cEZ"
+        }
+      }
+    ]
   }
 ]
