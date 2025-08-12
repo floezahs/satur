@@ -1,0 +1,20 @@
+[
+    {
+        "name": "RUTA 30",
+        "name_key": "RUTA_30",
+        "type": "VAN",
+        "id": "polyline_1755023803424",
+        "country": "MEX",
+        "state": "QROO",
+        "city": "BJZ"
+    },
+    {
+        "name": "RUTA 81",
+        "name_key": "RUTA_81",
+        "type": "VAN",
+        "id": "polyline_1753802299281_0",
+        "country": "MEX",
+        "state": "QROO",
+        "city": "BJZ"
+    }
+]
